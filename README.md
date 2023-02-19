@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vartika</h1>
-<h3 align="center">NITK '25</h3>
+<h3 align="center">NITK '25 Btech IT</h3>
 
 - 🤝 I’m looking for help with **honestly...everything 😅**
 
